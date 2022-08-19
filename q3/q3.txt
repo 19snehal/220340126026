@@ -1,0 +1,20 @@
+
+steps to create instance
+1. aws login
+2. aws console
+3. click on EC2
+4. launch instance
+5. click on ubuntu
+6. select 20.04 LTS volume type - free tier
+7. tag name - give anything
+8. generate key
+9. key value - give anything 
+10. launch instance
+11. click on instance
+12. security group
+13. click on that instance which is in security group
+14. inbound rule (if we want to edit then we can)
+15. select and click on instance
+16. connect
+17. terminal wiil open - then install mosquitto
+
