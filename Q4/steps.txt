@@ -1,0 +1,11 @@
+# Write a Dockerfile 
+	-Taking python image from docker hub
+	-Giving it a label Q2_cloudexam
+	-Giving the working directory of container
+	-Copying the python file to the container
+	-Running the python file
+
+
+#Run:
+sudo docker build -t q4:cloud .
+sudo docker run -it q4:cloud
